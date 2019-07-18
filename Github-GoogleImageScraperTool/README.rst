@@ -7,10 +7,9 @@ config file template (they have to be .json files)
 ## Calling it
 
 This is what im doing:
+	`$ googleimagedownload -cf whateveryoucalledconfigfile.json`
 
-    $ googleimagedownload -cf whateveryoucalledconfigfile.json
-
-	{
+	`{
 	    "Records": [
 	        {
 	            "keywords": "Yeezy Pirate Black v1",
@@ -24,7 +23,7 @@ This is what im doing:
 	            "size": "medium",
 	            "print_urls": true
 	        }
-	}
+	}`
 
 
 	can also specify an overall color for an image with:
