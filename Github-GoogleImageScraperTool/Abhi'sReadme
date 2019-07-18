@@ -1,0 +1,30 @@
+
+Github guy's doc: https://google-images-download.readthedocs.io/en/latest/index.html
+
+########################################################
+
+config file template (they have to be .json files)
+
+	call it with 
+	$ googleimagedownload -cf whateveryoucalledconfigfile.json
+
+	{
+	    "Records": [
+	        {
+	            "keywords": "Yeezy Pirate Black v1",
+	            "limit": 100,
+	            "size": "medium",
+	            "print_urls": true
+	        },
+	        {
+	            "keywords": "Yeezy Pirate Black 1.0",
+	            "limit": 100,
+	            "size": "medium",
+	            "print_urls": true
+	        }
+	}
+
+
+	can also specify an overall color for an image with:
+		"color": black,
+	for example
