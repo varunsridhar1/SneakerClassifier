@@ -4,8 +4,11 @@ Abhi's Addendum
 config file template (they have to be .json files)
 =============
 
-	call it with 
-	$ googleimagedownload -cf whateveryoucalledconfigfile.json
+## Calling it
+
+This is what im doing:
+
+    $ googleimagedownload -cf whateveryoucalledconfigfile.json
 
 	{
 	    "Records": [
