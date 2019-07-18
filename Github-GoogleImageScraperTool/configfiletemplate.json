@@ -1,0 +1,16 @@
+{
+    "Records": [
+        {
+            "keywords": "shoe",
+            "limit": 100,  
+            "size": "medium",
+            "print_urls": true
+        },
+      	{   
+            "keywords": "dog",
+            "limit": 10,
+            "color": "green",
+            "print_urls": true
+        }
+    ]
+}
