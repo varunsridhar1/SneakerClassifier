@@ -1,7 +1,37 @@
-Google Images Download
-######################
+Abhi'sREADME
 
-Python Script for 'searching' and 'downloading' hundreds of Google images to the local hard disk!
+#################
+
+config file template (they have to be .json files)
+
+	call it with 
+	$ googleimagedownload -cf whateveryoucalledconfigfile.json
+
+	{
+	    "Records": [
+	        {
+	            "keywords": "Yeezy Pirate Black v1",
+	            "limit": 100,
+	            "size": "medium",
+	            "print_urls": true
+	        },
+	        {
+	            "keywords": "Yeezy Pirate Black 1.0",
+	            "limit": 100,
+	            "size": "medium",
+	            "print_urls": true
+	        }
+	}
+
+
+	can also specify an overall color for an image with:
+		"color": black,
+	for example
+
+
+
+Github Guy's Stuff if you have problems/questions
+######################
 
 Documentation
 =============
@@ -11,19 +41,3 @@ Documentation
 * `Input arguments <https://google-images-download.readthedocs.io/en/latest/arguments.html>`__
 * `Examples and Code Samples <https://google-images-download.readthedocs.io/en/latest/examples.html#>`__
 
-
-Disclaimer
-==========
-
-This program lets you download tons of images from Google.
-Please do not download or use any image that violates its copyright terms.
-Google Images is a search engine that merely indexes images and allows you to find them.
-It does NOT produce its own images and, as such, it doesn't own copyright on any of them.
-The original creators of the images own the copyrights.
-
-Images published in the United States are automatically copyrighted by their owners,
-even if they do not explicitly carry a copyright warning.
-You may not reproduce copyright images without their owner's permission,
-except in "fair use" cases,
-or you could risk running into lawyer's warnings, cease-and-desist letters, and copyright suits.
-Please be very careful before its usage! Use this script/code only for educational purposes.
