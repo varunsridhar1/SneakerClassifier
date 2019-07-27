@@ -2,4 +2,4 @@
 
 Shoe recognition app
 
-NSI Google Drive: https://drive.google.com/drive/folders/1uYmdGv1J-8MvoEn0wV-reQEEFT0bGsgz?usp=sharing
+NSI Google Drive (updated): https://drive.google.com/open?id=1OJ71rPDVY2ArUjLeQoHWXiUqlUqiOhBL
