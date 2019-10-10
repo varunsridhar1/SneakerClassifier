@@ -2,6 +2,8 @@
 
 If you made it this far you're a real G
 
+Coding files are in NSI/NSIx1.0/
+
 Main.storyboard shows the UI view so you can play around with that and make things look nice and add colors, etc.
 
 LaunchScreen.storyboard is currently just our launcher and displays "N S I", pretty intuitive to play around with that.
