@@ -8,22 +8,26 @@
 
 import UIKit
 
-class PhotoViewController: UIViewController {
 
+//Class to handle the image view screen that pops up after taking photo
+class PhotoViewController: UIViewController {
+    
+    //will get set by our main ViewController
+    //in capture output method
     var takenPhoto:UIImage?
     
     @IBOutlet weak var imageView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        //another if let that refers to image view UI object
+        //and presents our photo
+        //we could possibly add trained model here as well
+        //because it might be nice to present the picture
+        //along with its classification
         if let availableImage = takenPhoto{
             imageView.image = availableImage
         }
-    }
-    
-
-    @IBAction func goBack(_ sender: Any) {
-        self.dismiss(animated: true, completion: nil)
     }
     
     /*

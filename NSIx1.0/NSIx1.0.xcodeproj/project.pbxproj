@@ -27,6 +27,7 @@
 		6A42E7592347B3AF00FEC3AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A42E75F2347B53000FEC3AD /* click.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = click.png; sourceTree = "<group>"; };
 		6A42E7602347BADB00FEC3AD /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
+		6AD148A8234FC16C0022D281 /* README.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = README.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +47,7 @@
 				6A42E74A2347B3AE00FEC3AD /* NSIx1.0 */,
 				6A42E7492347B3AE00FEC3AD /* Products */,
 				6A42E75F2347B53000FEC3AD /* click.png */,
+				6AD148A8234FC16C0022D281 /* README.rtf */,
 			);
 			sourceTree = "<group>";
 		};
