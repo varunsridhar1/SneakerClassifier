@@ -12,4 +12,4 @@ Image Classifier Tutorial that talks about proper file structure for images: htt
 
 Exporting trained Pytorch model to AWS using Sagemaker (need to install AWS CLI): https://sagemaker.readthedocs.io/en/stable/using_pytorch.html#deploy-endpoints-from-model-data
 
-Setting up AWS CLI (need to configure with access key): https://cloudacademy.com/blog/aws-cli-a-beginners-guide/
+Setting up AWS CLI (need to configure with access key): https://cloudacademy.com/blog/aws-cli-a-beginners-guide/ - model tar file is on Google Drive; need to upload to AWS next
