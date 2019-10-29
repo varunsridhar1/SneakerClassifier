@@ -11,3 +11,5 @@ Image Classifier Tutorial that talks about proper file structure for images: htt
 <s>Pytorch model to CoreML: https://medium.com/@alexiscreuzot/building-a-neural-style-transfer-app-on-ios-with-pytorch-and-coreml-76e00cd14b28</s>
 
 Exporting trained Pytorch model to AWS using Sagemaker (need to install AWS CLI): https://sagemaker.readthedocs.io/en/stable/using_pytorch.html#deploy-endpoints-from-model-data
+
+Setting up AWS CLI (need to configure with access key): https://cloudacademy.com/blog/aws-cli-a-beginners-guide/
