@@ -20,3 +20,5 @@ Pytorch example on iOS: https://pytorch.org/mobile/ios/
       Github: https://github.com/pytorch/ios-demo-app
 
 Pytorch example on Android: https://github.com/pytorch/android-demo-app
+
+Pretrained Pytorch CNN model to SageMaker: https://techblog.realtor.com/pytorch-aws-sagemaker/
